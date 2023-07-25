@@ -1,4 +1,4 @@
-<img width="1279" alt="Screenshot 2023-07-25 172224" src="https://github.com/Dimavo42/BookStore/assets/87165144/77b5f9bd-3140-47dc-94cc-cce7d598c699"># BookStore
+# BookStore
 Learning project bookstore management WEB 
 Implemented with C# MVC Architecture.
 <img width="1279" alt="Screenshot 2023-07-25 172224" src="https://github.com/Dimavo42/BookStore/assets/87165144/389138a5-be1b-4df9-87ca-6782053dd2b1">
